@@ -1,0 +1,21 @@
+Instructions:
+
+Create the directory:
+
+bash
+Copy code
+mkdir -p alx-intermediate-frontend/0x03-sass_scss
+cd alx-intermediate-frontend/0x03-sass_scss
+Install Node.js v20.16 via NVM (Linux):
+
+bash
+Copy code
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+exit  # close and reopen your terminal
+nvm install 20.16
+Install Sass version 3.7.4:
+
+bash
+Copy code
+npm install sass@3.7.4
+Create the file 0-installation-script with the steps:
